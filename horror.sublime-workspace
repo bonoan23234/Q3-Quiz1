@@ -1,0 +1,189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sublime Text/horror.html",
+		"/C/Sublime Text/movie.html",
+		"/C/Sublime Text/cake.html",
+		"/C/Users/HUAWEI/Desktop/ICT/index.html",
+		"/C/Sublime Text/Q3-SEATWORK1.html",
+		"/C/Sublime Text/ic",
+		"/C/Sublime Text/index.html",
+		"/C/Sublime Text/ICT9-TOPAZ_Q2Project_LBONOAN_JAIMEE.html",
+		"/C/Sublime Text/ICTTOPAZ_Q2_project_Bonoan_Jaimee.html",
+		"/C/Sublime Text/ICT9Topaz_Q2SW2_Bonoan_jaimee.html",
+		"/C/Sublime Text/ICT9STopaz_Q2SW1_LName_jaimee.html",
+		"/C/Sublime Text/Q2_ex2_bonoan.html",
+		"/C/Sublime Text/Gh_ICT9Topaz_Q1Project_Bonoan_Jaimee.html",
+		"/C/Sublime Text/ICT9TopazQ1SW1_Bonoan_Jaimee.html",
+		"/C/Sublime Text/ICT9Section_Q2SW1_Bonoan_Jaimee.html",
+		"/C/Sublime Text/style-projectQ2.css",
+		"/C/Sublime Text/ICT9-Topaz_Q2SW2_Bonoan_Jaimee.html",
+		"/C/Sublime Text/test.html",
+		"/C/Sublime Text/cssSample.html",
+		"/C/Sublime Text/test_number_one.html",
+		"/C/Sublime Text/test #1",
+		"/C/Sublime Text/ICT9-Topaz_Q1SW1_Bonoan_Jaimee.html",
+		"/C/Sublime Text/ict_work_thing.html"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "horror.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
